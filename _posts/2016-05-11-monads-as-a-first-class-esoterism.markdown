@@ -13,7 +13,8 @@ Let's begin with some simple snippets.
 
 Imagine you are analyzing some word occurrences in a story. These come in lines of the following form:
 
-`It was with considerable reluctance that I abandoned in favour of the
+````
+It was with considerable reluctance that I abandoned in favour of the
 present undertaking what had long been a favourite project: that of a new
 edition of Shelton's "Don Quixote," which has now become a somewhat
 scarce book. There are some--and I confess myself to be one--for whom
@@ -27,7 +28,8 @@ Cervantes into the English of Shakespeare. Shakespeare himself most
 likely knew the book; he may have carried it home with him in his
 saddle-bags to Stratford on one of his last journeys, and under the
 mulberry tree at New Place joined hands with a kindred genius in its
-pages.`
+pages.
+````
 
 The strategy to make a word count would be:
 
